@@ -1,0 +1,42 @@
+.container {
+  width: 257px;
+  background-color: #2a2e41;
+  height: 135vh;
+}
+
+.logo {
+  margin-top: 50px;
+  margin-left: 40px;
+  width: 100px;
+  height: 30px;
+}
+
+.manageContainer {
+  color: #9ca4ab;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+
+.dashboard {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.settings {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  color: #355fe5;
+}
+
+.otherContainer {
+  color: #9ca4ab;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+.theme {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
